@@ -1,0 +1,17 @@
+{
+  "name": "jest-ref-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ben Mildren <mildrenben@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1",
+    "jest": "22.1.4",
+    "react": "16.2.0",
+    "react-test-renderer": "16.2.0"
+  }
+}
